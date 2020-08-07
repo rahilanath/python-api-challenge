@@ -8,37 +8,37 @@
 
 My analysis can be found within the Jupyter Notebook however here are images of my figures:
 
-![LatVCloud](/WeatherPy/Images/LatVCloud.png)
+![LatVCloud](/WeatherPy/Images/LatVCloud.PNG)
 
-![LatVHumid](/WeatherPy/Images/LatVHumid.png)
+![LatVHumid](/WeatherPy/Images/LatVHumid.PNG)
 
-![LatVTemp](/WeatherPy/Images/LatVTemp.png)
+![LatVTemp](/WeatherPy/Images/LatVTemp.PNG)
 
-![LatVWind](/WeatherPy/Images/LatVWind.png)
+![LatVWind](/WeatherPy/Images/LatVWind.PNG)
 
-![Reg1](/WeatherPy/Images/Reg1.png)
+![Reg1](/WeatherPy/Images/Reg1.PNG)
 
-![Reg2](/WeatherPy/Images/Reg2.png)
+![Reg2](/WeatherPy/Images/Reg2.PNG)
 
-![Reg3](/WeatherPy/Images/Reg3.png)
+![Reg3](/WeatherPy/Images/Reg3.PNG)
 
-![Reg4](/WeatherPy/Images/Reg4.png)
+![Reg4](/WeatherPy/Images/Reg4.PNG)
 
-![Reg5](/WeatherPy/Images/Reg5.png)
+![Reg5](/WeatherPy/Images/Reg5.PNG)
 
-![Reg6](/WeatherPy/Images/Reg6.png)
+![Reg6](/WeatherPy/Images/Reg6.PNG)
 
-![Reg7](/WeatherPy/Images/Reg7.png)
+![Reg7](/WeatherPy/Images/Reg7.PNG)
 
-![Reg8](/WeatherPy/Images/Reg8.png)
+![Reg8](/WeatherPy/Images/Reg8.PNG)
 
 
 ### VacationPy:
 
 Here are images of my GMAP figures:
 
-![GMaps_Fig](/VacationPy/Images/GMaps_Fig.png)
+![GMaps_Fig](/VacationPy/Images/GMaps_Fig.PNG)
 
-![GMaps_Heat_Layer](/VacationPy/Images/GMaps_Heat_Layer.png)
+![GMaps_Heat_Layer](/VacationPy/Images/GMaps_Heat_Layer.PNG)
 
-![GMaps_Marker_Layer](/VacationPy/Images/GMaps_Marker_Layer.png)
+![GMaps_Marker_Layer](/VacationPy/Images/GMaps_Marker_Layer.PNG)
